@@ -105,11 +105,11 @@ To run this project, you will need to add the following environment variables to
 ###  Producer & fake data generator working video:
 
 <a href="https://youtu.be/lW16hMUe1_I" target="_blank">
-     <img src="./img/youtube.png" alt="youtube">
+     <img src="./img/youtube.png" alt="youtube" width="55">
 </a>
 
 ###  Producer is send error to error-logger-api :
 
 <a href="https://youtu.be/vaKyr5OrAA0" target="_blank">
-     <img src="./img/youtube.png" alt="youtube">
+     <img src="./img/youtube.png" alt="youtube" width="55">
 </a>
